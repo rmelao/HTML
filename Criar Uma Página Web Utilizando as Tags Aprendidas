@@ -56,6 +56,6 @@
         <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">DOCS HTML</a></li>
         <LI><a href="https://www.brasilcode.com.br/tags-html-conhecas-as-principais-e-mais-usadas/" target="_blank">TAGS HTML</a></LI>
     </ul>
-    
+    <blockquote>"Se depurar é o processo de remoção de bugs do software, então programação deve ser o processo de colocação deles." <i>Edsger Dijkstra</i></blockquote>
 </body>
 </html>
