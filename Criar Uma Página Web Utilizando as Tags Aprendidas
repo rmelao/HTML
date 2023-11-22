@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>PRIMEIROS PASSOS EM HTML</title>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<h1 id="inicio" style="color: brown;" >PRIMEIROS PASSOS EM HTML</h1>
+<hr />
+<img src="https://www.anthonyliu.org/wp-content/uploads/2017/09/HTML5.png" width="500"/>
+<h2 style="color: rgb(255, 0, 0);">Conteúdo adquirido no curso HTML <abbr title="Digital Innovation One">Dio.me</abbr></h2>
+<p><strong></strong><i>Seguindo na grande jornada do aprendizado,</i></strong> iniciando em html no curso de formação da Dio.me</p>
+<ul>
+    <li><a href="#1">História dos computadores</a></li>
+    <li><a href="#2">O que são <i>Clients</i>?</a></li>
+    <li><a href="#3">O que são <i>Servers</i>?</a></li>
+    <li><a href="#4">Como é uma estrutura básica de um HTML?</a></li>
+    <li><a href="#5">Entendendo a diferença entre listas ordenadas e não ordenadas</a></li>
+    <li><a href="#6">Links de referências</a></li>
+</ul>
+<h2 id="1" style="color:rgb(255, 0, 0)">História dos computadores</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <p><strong><u>Os Primeiros Computdores</u></strong><br>
+    <p>A história dos computadores pode ser dividida em cinco gerações:</p>
+    <p><strong>Primeira geração (1951-1959):</strong> usavam circuitos e válvulas eletrônicas, eram grandes e lentos.<br>
+    <strong>Segunda geração (1959-1965):</strong> usavam transistores, que substituíram as válvulas, eram menores e mais rápidos.<br>
+    <strong>Terceira geração (1965-1975):</strong> usavam circuitos integrados, que permitiam a miniaturização dos componentes e o aumento da capacidade de processamento.<br>
+    <strong>Quarta geração (1975-até os dias atuais):</strong> usam microprocessadores, que integram milhões de transistores em um único chip, possibilitando a criação de computadores pessoais, portáteis e redes de comunicação.<br>
+    <strong>Quinta geração (em desenvolvimento):</strong> usam inteligência artificial, computação quântica e nanotecnologia, que prometem revolucionar o campo da informática.</p> 
+    </p>
+
+<h2 id="2" style="color:rgb(255, 0, 0)">O que são <i>Clients</i>?</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <p><strong>Client</strong> "é um termo empregado em computação e representa uma entidade que consome os serviços de uma outra entidade servidora, em geral através do uso de uma rede de computadores numa arquitetura cliente-servidor.</p>
+
+<h2 id="3" style="color:rgb(255, 0, 0)">O que são <i>Servers</i>?</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <p>Um servidor pode ser definido como um software e/ou computador que fornece serviços específicos para um cliente.<br>
+    Provavelmente quando você escuta alguém falar de um servidor, ele está se referindo a uma máquina dedicada para executar um sistema ou aplicação, basicamente um servidor é uma máquina conectada a internet que recebe e responde solicitações e que normalmente está ligado 24 horas por dia, 7 dias por semana.</p>
+
+<h2 id="4" style="color:rgb(255, 0, 0)">Como é uma estrutura básica de um HTML?</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <p>A estrutura básica HTML é fundamental para o desenvolvimento de qualquer site. Portanto, com ela, podemos criar uma base sólida para adicionar conteúdo e tornar nossa página acessível e organizada. As tags essenciais como !DOCTYPE, html, head e body são fundamentais para garantir que nosso código seja bem interpretado pelos navegadores (browsers).</p>
+
+<h2 id="5" style="color:rgb(255, 0, 0)">Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <p>A principal diferença entre a <strong>lista ordenada</strong> e a <strong>lista não-ordenada</strong> está na maneira com que os itens de cada lista são apresentados - a lista ordenada enumera os elementos; a lista não-ordenada coloca marcadores antes de cada elemento. O uso de números induz o leitor a esperar uma seqüência coerentemente ordenada de itens.</p>
+
+<h2 id="6" style="color:rgb(255, 0, 0)">Links de referências</h2>
+<small><a href="#inicio">(voltar)</a></small>
+    <ul>
+        <li><a href="http://dio.me" target="_blank">DIO.ME</a></li>
+        <li><a href="https://www.youtube.com/watch?v=o0UZNUuFsvA" target="_blank">YouTube DIO.me</a></li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">DOCS HTML</a></li>
+        <LI><a href="https://www.brasilcode.com.br/tags-html-conhecas-as-principais-e-mais-usadas/" target="_blank">TAGS HTML</a></LI>
+    </ul>
+    
+</body>
+</html>
